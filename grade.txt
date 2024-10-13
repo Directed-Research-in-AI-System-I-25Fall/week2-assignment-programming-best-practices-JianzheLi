@@ -1,0 +1,3 @@
+Your grade is : 9 
+Reasons: The result of Step7 is not correct. You need to consider the batch size when calculating the acc. 
+If you have any quesions about the grading, please contact the TAs.
